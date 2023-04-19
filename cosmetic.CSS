@@ -176,7 +176,7 @@ section {
   z-index: 1010;
   height: 100%;
   width: 100%;
-  background: url(../../images/cosmetic/navbar-bg.png) no-repeat;
+  background: url(https://user-images.githubusercontent.com/125794481/233092961-b3aaf164-df88-46b8-a592-13f4bbeb52a9.png) no-repeat;
   background-position: center;
   background-size: cover;
   display: -webkit-box;
@@ -376,7 +376,7 @@ section {
 }
 
 .about {
-  background: url(../images/about-bg.jpg) no-repeat;
+  background: url(https://user-images.githubusercontent.com/125794481/233093097-f2312343-b117-4568-87ac-f7e598e1b350.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -1033,4 +1033,3 @@ section {
     font-size: 50%;
   }
 }
-/*# sourceMappingURL=style.css.map */
