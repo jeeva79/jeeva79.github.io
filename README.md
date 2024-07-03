@@ -76,5 +76,6 @@ SOFTWARE.
 ## Contact
 
 If you have any questions or suggestions, please contact us at jeevaaveej79@gmail.com
-
+- **LinkedIn:** [Jeeva. P](https://www.linkedin.com/in/jeeva-p-637323230)
+  
 This `README.md` file now includes a section for HTML, CSS, and JavaScript dependencies, along with the rest of the necessary information for your project.
